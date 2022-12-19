@@ -34,5 +34,7 @@ O que você vai ver neste projeto?
 * **[Panorama do Covid-19 no Brasil e no Mundo](http://bitly.ws/oBUC)**
 * **[Previsão de Churn para uma empresa de Telecomunicações](http://bitly.ws/sIyx)**
 * **[IA na Detecção de fraudes em cartões de crédito](http://bitly.ws/rLY5)**
+* **[Inteligência Artificial auxiliando na saúde de fetos](https://github.com/cunhajessica/Inteligencia_Antificial_na_saude_de_fetos/blob/main/README.md)**
+* **[Previsão de Demanda utilizando o Prophet](https://github.com/cunhajessica/Times_Series_Forecasting_Prophet/blob/main/README.md)
 
 
