@@ -22,7 +22,7 @@ O que você vai ver neste projeto?
 
 **Links:**
 
-* [Projeto no Medium](https://medium.com/@jessicacunha.jsc/panorama-do-covid-19-2b7977a62337)
+* [Projeto no Medium](https://medium.com/@jessicacunha.jsc/prevendo-o-valor-do-seguro-de-vida-a2a48a73bb52)
 * [LinkedIn](https://www.linkedin.com/in/j%C3%A9ssica-cunha/)
 
 
